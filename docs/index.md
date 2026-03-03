@@ -1,11 +1,13 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-02T12:25:19Z
+- Last updated: 2026-03-03T02:20:20Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：遷移宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-7.html) · [原文](https://ziweidoushu.info/dict/gongwei/qianyi-gong) · 2026-03-03T02:20:18Z
+- [事業財運全景：職場競爭與理財策略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1590.html) · [原文](https://ziweidoushu.info/article/shiye-caiyun-quanjing) · 2026-03-03T02:20:10Z
 - [术语卡片：疾厄宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-6.html) · [原文](https://ziweidoushu.info/dict/gongwei/ji-e-gong) · 2026-03-02T12:25:17Z
 - [感情婚姻總論：從命盤看戀愛到婚姻的關鍵](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1591.html) · [原文](https://ziweidoushu.info/article/ganqing-hunyin-zonglun) · 2026-03-02T12:25:08Z
 - [术语卡片：財帛宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-5.html) · [原文](https://ziweidoushu.info/dict/gongwei/caibo-gong) · 2026-03-02T11:14:13Z

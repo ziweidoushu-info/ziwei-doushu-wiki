@@ -1,11 +1,13 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-03T02:29:15Z
+- Last updated: 2026-03-04T02:20:08Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：官祿宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-9.html) · [原文](https://ziweidoushu.info/dict/gongwei/guanlu-gong) · 2026-03-04T02:20:08Z
+- [流月流日精準判讀：時間尺度與宮位應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1588.html) · [原文](https://ziweidoushu.info/article/liuyue-liuri-jingzhun-pand) · 2026-03-04T02:20:05Z
 - [术语卡片：交友宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-8.html) · [原文](https://ziweidoushu.info/dict/gongwei/puyi-gong) · 2026-03-03T02:29:15Z
 - [流月流日實戰案例：事件追蹤與行動規劃](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1589.html) · [原文](https://ziweidoushu.info/article/liuyue-liuri-shizhan-anli) · 2026-03-03T02:29:12Z
 - [术语卡片：遷移宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-7.html) · [原文](https://ziweidoushu.info/dict/gongwei/qianyi-gong) · 2026-03-03T02:20:23Z

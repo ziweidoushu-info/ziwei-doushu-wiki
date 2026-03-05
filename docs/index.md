@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-05T02:20:10Z
+- Last updated: 2026-03-05T11:31:57Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：天機](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-14.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianji) · 2026-03-05T11:31:57Z
+- [术语卡片：紫微](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-13.html) · [原文](https://ziweidoushu.info/dict/zhuxing/ziwei) · 2026-03-05T11:31:50Z
+- [术语卡片：父母宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-12.html) · [原文](https://ziweidoushu.info/dict/gongwei/fumu-gong) · 2026-03-05T11:31:44Z
+- [紫微常用格局圖鑑：典型組合與關鍵判讀](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1581.html) · [原文](https://ziweidoushu.info/article/ziwei-changyong-geju-tujian) · 2026-03-05T11:31:35Z
+- [三方四正核心課：結構意義與判讀思路](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1582.html) · [原文](https://ziweidoushu.info/article/sanfang-sizheng-hexin-ke) · 2026-03-05T11:31:26Z
+- [三方四正應用案例：主題事件與策略調整](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1583.html) · [原文](https://ziweidoushu.info/article/sanfang-sizheng-yingyong-anli) · 2026-03-05T11:31:19Z
+- [疊宮與借盤全指南：盤局重疊的判斷方法](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1584.html) · [原文](https://ziweidoushu.info/article/diegong-jiepan-quan-zhinan) · 2026-03-05T11:31:12Z
+- [大限分析權威手冊：十年行運與人生節奏](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1585.html) · [原文](https://ziweidoushu.info/article/daxian-fenxi-quanwei-shouce) · 2026-03-05T11:31:03Z
 - [术语卡片：福德宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-11.html) · [原文](https://ziweidoushu.info/dict/gongwei/fude-gong) · 2026-03-05T02:20:10Z
 - [流年分析全攻略：年度主題與關鍵應期](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1586.html) · [原文](https://ziweidoushu.info/article/liunian-fenxi-quan-gonglue) · 2026-03-05T02:20:07Z
 - [术语卡片：田宅宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-10.html) · [原文](https://ziweidoushu.info/dict/gongwei/tianzhai-gong) · 2026-03-04T02:34:39Z

@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-05T11:31:57Z
+- Last updated: 2026-03-06T02:22:45Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：天同](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-17.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tiantong) · 2026-03-06T02:22:45Z
+- [术语卡片：武曲](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-16.html) · [原文](https://ziweidoushu.info/dict/zhuxing/wuqu) · 2026-03-06T02:22:25Z
+- [术语卡片：太陽](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-15.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyang) · 2026-03-06T02:22:05Z
+- [生年四化實戰案例庫：大運流年與主題應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1576.html) · [原文](https://ziweidoushu.info/article/shengnian-sihua-anli-ku) · 2026-03-06T02:21:45Z
+- [飛星技法終極指南：盤勢推演與決策應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1577.html) · [原文](https://ziweidoushu.info/article/feixing-jifa-zhongji-zhinan) · 2026-03-06T02:21:25Z
+- [自化與沖照專論：宮位互動與事件推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1578.html) · [原文](https://ziweidoushu.info/article/zihua-chongzhao-zhuanlun) · 2026-03-06T02:21:04Z
+- [論命流程全攻略：從盤主訪談到結論彙整](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1579.html) · [原文](https://ziweidoushu.info/article/lunming-liucheng-gonglue) · 2026-03-06T02:20:43Z
+- [論命實戰手冊：六親、時序與應期推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1580.html) · [原文](https://ziweidoushu.info/article/lunming-shizhan-shouce) · 2026-03-06T02:20:23Z
 - [术语卡片：天機](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-14.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianji) · 2026-03-05T11:31:57Z
 - [术语卡片：紫微](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-13.html) · [原文](https://ziweidoushu.info/dict/zhuxing/ziwei) · 2026-03-05T11:31:50Z
 - [术语卡片：父母宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-12.html) · [原文](https://ziweidoushu.info/dict/gongwei/fumu-gong) · 2026-03-05T11:31:44Z

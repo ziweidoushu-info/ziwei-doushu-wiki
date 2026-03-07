@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-06T02:22:45Z
+- Last updated: 2026-03-07T02:22:46Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：太陰](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-20.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyin) · 2026-03-07T02:22:46Z
+- [术语卡片：天府](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-19.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianfu) · 2026-03-07T02:22:26Z
+- [术语卡片：廉貞](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-18.html) · [原文](https://ziweidoushu.info/dict/zhuxing/lianzhen) · 2026-03-07T02:22:06Z
+- [雜曜百問：輔助星曜的歷史、象徵與實務](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1571.html) · [原文](https://ziweidoushu.info/article/zayao-baiwen) · 2026-03-07T02:21:46Z
+- [星曜亮度判讀指南：明暗變化與吉凶評估](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1572.html) · [原文](https://ziweidoushu.info/article/xingyao-liangdu-zhinan) · 2026-03-07T02:21:25Z
+- [四化飛星基礎課：化祿化權化科化忌的核心機制](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1573.html) · [原文](https://ziweidoushu.info/article/sihua-feixing-jichu-ke) · 2026-03-07T02:21:04Z
+- [四化進階應用：流年飛化與實戰判盤流程](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1574.html) · [原文](https://ziweidoushu.info/article/sihua-jinjie-yingyong) · 2026-03-07T02:20:44Z
+- [生年四化全解析：命盤底層程式碼](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1575.html) · [原文](https://ziweidoushu.info/article/shengnian-sihua-quan-jiexi) · 2026-03-07T02:20:23Z
 - [术语卡片：天同](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-17.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tiantong) · 2026-03-06T02:22:45Z
 - [术语卡片：武曲](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-16.html) · [原文](https://ziweidoushu.info/dict/zhuxing/wuqu) · 2026-03-06T02:22:25Z
 - [术语卡片：太陽](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-15.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyang) · 2026-03-06T02:22:05Z

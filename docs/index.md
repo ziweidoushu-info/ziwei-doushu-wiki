@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-11T02:22:03Z
+- Last updated: 2026-03-12T02:22:09Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：鈴星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-36.html) · [原文](https://ziweidoushu.info/dict/fuxing/lingxing) · 2026-03-12T02:22:09Z
+- [术语卡片：火星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-35.html) · [原文](https://ziweidoushu.info/dict/fuxing/huoxing) · 2026-03-12T02:22:01Z
+- [术语卡片：陀羅](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-34.html) · [原文](https://ziweidoushu.info/dict/fuxing/tuoluo) · 2026-03-12T02:21:53Z
+- [紫微斗數入門總攻略：命盤基礎概念與學習路線](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1544.html) · [原文](https://ziweidoushu.info/article/ziwei-rumen-zong-gonglue) · 2026-03-12T02:21:45Z
+- [命盤結構全解析：十二宮位與星曜布局指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1545.html) · [原文](https://ziweidoushu.info/article/mingpan-jiegou-quan-jiexi) · 2026-03-12T02:21:23Z
+- [紫微斗數排盤實務：宮干四化與盤面判讀流程](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1546.html) · [原文](https://ziweidoushu.info/article/ziwei-paipan-shiwu-liucheng) · 2026-03-12T02:21:02Z
+- [陰陽五行與干支基礎：紫微斗數能量平衡指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1547.html) · [原文](https://ziweidoushu.info/article/yinyang-wuxing-ganzhi-jichu) · 2026-03-12T02:20:54Z
+- [命宮核心指南：主星組合與人格原型解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1548.html) · [原文](https://ziweidoushu.info/article/minggong-hexin-zhinan) · 2026-03-12T02:20:45Z
 - [术语卡片：擎羊](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-33.html) · [原文](https://ziweidoushu.info/dict/fuxing/qingyang) · 2026-03-11T02:22:03Z
 - [术语卡片：天鉞](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-32.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianyue) · 2026-03-11T02:21:42Z
 - [术语卡片：天魁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-31.html) · [原文](https://ziweidoushu.info/dict/fuxing/tiankui) · 2026-03-11T02:21:21Z
@@ -78,8 +86,3 @@
 - [术语卡片：疾厄宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-6.html) · [原文](https://ziweidoushu.info/dict/gongwei/ji-e-gong) · 2026-03-02T12:25:17Z
 - [感情婚姻總論：從命盤看戀愛到婚姻的關鍵](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1591.html) · [原文](https://ziweidoushu.info/article/ganqing-hunyin-zonglun) · 2026-03-02T12:25:08Z
 - [术语卡片：財帛宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-5.html) · [原文](https://ziweidoushu.info/dict/gongwei/caibo-gong) · 2026-03-02T11:14:13Z
-- [感情危機處理手冊：分手、復合與多段關係解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1592.html) · [原文](https://ziweidoushu.info/article/ganqing-weiji-chuli-shouce) · 2026-03-02T11:14:05Z
-- [术语卡片：子女宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-4.html) · [原文](https://ziweidoushu.info/dict/gongwei/zinv-gong) · 2026-03-01T05:01:18Z
-- [健康疾厄全書：體質、疾病與養生策略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1593.html) · [原文](https://ziweidoushu.info/article/jiankang-jiee-quanshu) · 2026-03-01T05:01:10Z
-- [术语卡片：夫妻宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-3.html) · [原文](https://ziweidoushu.info/dict/gongwei/fuqi-gong) · 2026-03-01T03:36:46Z
-- [健康風險實戰：過敏、意外與復原力分析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1594.html) · [原文](https://ziweidoushu.info/article/jiankang-fengxian-shizhan) · 2026-03-01T03:36:42Z

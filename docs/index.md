@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-13T02:31:34Z
+- Last updated: 2026-03-13T06:31:34Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：化忌]() · [原文](https://ziweidoushu.info/dict/sihua/huaji) · 2026-03-13T06:31:34Z
+- [紫微斗數核心：生年四化終極詳解，一篇搞懂化祿、化權、化科、化忌，看穿你的人生劇本與天賦]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-sheng-nian-si-hua-ultimate-guide) · 2026-03-13T06:31:03Z
+- [飛星技法全攻略：從入門到精通，學會紫微斗數四化飛星的終極指南]() · [原文](https://ziweidoushu.info/article/ziwei-feixing-jifa-gong-lue) · 2026-03-13T06:30:32Z
 - [术语卡片：化科]() · [原文](https://ziweidoushu.info/dict/sihua/huake) · 2026-03-13T02:31:34Z
 - [萬字詳解紫微斗數「自化與沖照」：從飛星四化看懂命運的因果與轉機]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-zihua-chongzhao-pillar-guide) · 2026-03-13T02:31:04Z
 - [論命步驟全攻略：從新手入門到大師的終極萬字指南 (2024詳解版)]() · [原文](https://ziweidoushu.info/article/lun-ming-bu-zhou-wan-quan-jiaoxue-zhi-nan) · 2026-03-13T02:30:33Z
@@ -83,6 +86,3 @@
 - [生年四化實戰案例庫：大運流年與主題應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1576.html) · [原文](https://ziweidoushu.info/article/shengnian-sihua-anli-ku) · 2026-03-06T02:21:45Z
 - [飛星技法終極指南：盤勢推演與決策應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1577.html) · [原文](https://ziweidoushu.info/article/feixing-jifa-zhongji-zhinan) · 2026-03-06T02:21:25Z
 - [自化與沖照專論：宮位互動與事件推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1578.html) · [原文](https://ziweidoushu.info/article/zihua-chongzhao-zhuanlun) · 2026-03-06T02:21:04Z
-- [論命流程全攻略：從盤主訪談到結論彙整](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1579.html) · [原文](https://ziweidoushu.info/article/lunming-liucheng-gonglue) · 2026-03-06T02:20:43Z
-- [論命實戰手冊：六親、時序與應期推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1580.html) · [原文](https://ziweidoushu.info/article/lunming-shizhan-shouce) · 2026-03-06T02:20:23Z
-- [术语卡片：天機](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-14.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianji) · 2026-03-05T11:31:57Z

@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-13T06:31:34Z
+- Last updated: 2026-03-13T10:31:34Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：流年]() · [原文](https://ziweidoushu.info/dict/xingyun/liunian) · 2026-03-13T10:31:34Z
+- [【破軍星最全詳解】紫微斗數「破軍星」入命宮：從性格、財運、事業、感情到化祿化權，萬字長文助你掌握人生變局！]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-po-jun-xing-xiang-jie) · 2026-03-13T10:31:04Z
+- [【紫微斗數萬字詳解】四化全攻略：從化祿、化權、化科、化忌入門到精通（2024最新版）]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-si-hua-xiang-jie) · 2026-03-13T10:30:33Z
 - [术语卡片：化忌]() · [原文](https://ziweidoushu.info/dict/sihua/huaji) · 2026-03-13T06:31:34Z
 - [紫微斗數核心：生年四化終極詳解，一篇搞懂化祿、化權、化科、化忌，看穿你的人生劇本與天賦]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-sheng-nian-si-hua-ultimate-guide) · 2026-03-13T06:31:03Z
 - [飛星技法全攻略：從入門到精通，學會紫微斗數四化飛星的終極指南]() · [原文](https://ziweidoushu.info/article/ziwei-feixing-jifa-gong-lue) · 2026-03-13T06:30:32Z
@@ -83,6 +86,3 @@
 - [术语卡片：天同](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-17.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tiantong) · 2026-03-06T02:22:45Z
 - [术语卡片：武曲](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-16.html) · [原文](https://ziweidoushu.info/dict/zhuxing/wuqu) · 2026-03-06T02:22:25Z
 - [术语卡片：太陽](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-15.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyang) · 2026-03-06T02:22:05Z
-- [生年四化實戰案例庫：大運流年與主題應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1576.html) · [原文](https://ziweidoushu.info/article/shengnian-sihua-anli-ku) · 2026-03-06T02:21:45Z
-- [飛星技法終極指南：盤勢推演與決策應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1577.html) · [原文](https://ziweidoushu.info/article/feixing-jifa-zhongji-zhinan) · 2026-03-06T02:21:25Z
-- [自化與沖照專論：宮位互動與事件推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1578.html) · [原文](https://ziweidoushu.info/article/zihua-chongzhao-zhuanlun) · 2026-03-06T02:21:04Z

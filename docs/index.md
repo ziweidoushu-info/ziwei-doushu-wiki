@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-13T02:21:38Z
+- Last updated: 2026-03-13T02:31:34Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：化科]() · [原文](https://ziweidoushu.info/dict/sihua/huake) · 2026-03-13T02:31:34Z
+- [萬字詳解紫微斗數「自化與沖照」：從飛星四化看懂命運的因果與轉機]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-zihua-chongzhao-pillar-guide) · 2026-03-13T02:31:04Z
+- [論命步驟全攻略：從新手入門到大師的終極萬字指南 (2024詳解版)]() · [原文](https://ziweidoushu.info/article/lun-ming-bu-zhou-wan-quan-jiaoxue-zhi-nan) · 2026-03-13T02:30:33Z
 - [术语卡片：化權](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-42.html) · [原文](https://ziweidoushu.info/dict/sihua/huaquan) · 2026-03-13T02:21:38Z
 - [术语卡片：化祿](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-41.html) · [原文](https://ziweidoushu.info/dict/sihua/hualu) · 2026-03-13T02:21:30Z
 - [术语卡片：天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-40.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianma) · 2026-03-13T02:21:22Z
@@ -83,6 +86,3 @@
 - [論命流程全攻略：從盤主訪談到結論彙整](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1579.html) · [原文](https://ziweidoushu.info/article/lunming-liucheng-gonglue) · 2026-03-06T02:20:43Z
 - [論命實戰手冊：六親、時序與應期推演](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1580.html) · [原文](https://ziweidoushu.info/article/lunming-shizhan-shouce) · 2026-03-06T02:20:23Z
 - [术语卡片：天機](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-14.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianji) · 2026-03-05T11:31:57Z
-- [术语卡片：紫微](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-13.html) · [原文](https://ziweidoushu.info/dict/zhuxing/ziwei) · 2026-03-05T11:31:50Z
-- [术语卡片：父母宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-12.html) · [原文](https://ziweidoushu.info/dict/gongwei/fumu-gong) · 2026-03-05T11:31:44Z
-- [紫微常用格局圖鑑：典型組合與關鍵判讀](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1581.html) · [原文](https://ziweidoushu.info/article/ziwei-changyong-geju-tujian) · 2026-03-05T11:31:35Z

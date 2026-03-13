@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-12T10:30:29Z
+- Last updated: 2026-03-13T02:21:08Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：化權](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-42.html) · [原文](https://ziweidoushu.info/dict/sihua/huaquan) · 2026-03-13T02:21:08Z
+- [术语卡片：化祿](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-41.html) · [原文](https://ziweidoushu.info/dict/sihua/hualu) · 2026-03-13T02:21:00Z
+- [术语卡片：天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-40.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianma) · 2026-03-13T02:20:52Z
+- [紫微斗數常用格局總整理：一篇搞懂所有吉格與凶格，解盤功力大躍進！](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1533.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-changyong-geju-zongzhengli) · 2026-03-13T02:20:45Z
+- [「三方四正」全攻略：深度解析紫微斗數命盤核心，看懂你的事業、財富與人生格局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1534.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-san-fang-si-zheng-guide) · 2026-03-13T02:20:36Z
+- [紫微斗數進階秘訣：疊宮與借盤全方位指南｜從空宮論命到運勢推演的獨家詳解](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1535.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-die-gong-jie-pan) · 2026-03-13T02:20:28Z
+- [紫微斗數大限分析全攻略｜詳解十年大運吉凶，教你掌握人生關鍵轉捩點](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1536.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-da-xian-fen-xi-gong-lue) · 2026-03-13T02:20:20Z
+- [【流年分析全攻略】紫微斗數與八字教你看懂新年運勢，犯太歲也不怕的終極指南！](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1537.html) · [原文](https://ziweidoushu.info/article/liunian-fenxi-ziwei-bazi-gonglue) · 2026-03-13T02:20:12Z
 - [术语卡片：祿存]() · [原文](https://ziweidoushu.info/dict/fuxing/lucun) · 2026-03-12T10:30:29Z
 - [流月流日全攻略：紫微斗數超詳細教學，教你預測每日運勢吉凶，趨吉避凶掌握先機！]() · [原文](https://ziweidoushu.info/article/liu-yue-liu-ri-zi-wei-dou-shu-jiao-xue-gong-lue) · 2026-03-12T10:30:28Z
 - [事業財運全方位佈局：從紫微斗數、辦公室風水到個人品牌，打造你的成功方程式【萬字長文終極指南】]() · [原文](https://ziweidoushu.info/article/shiye-caiyun-quanfangwei-buju-zhinan) · 2026-03-12T10:30:15Z
@@ -78,11 +86,3 @@
 - [术语卡片：紫微](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-13.html) · [原文](https://ziweidoushu.info/dict/zhuxing/ziwei) · 2026-03-05T11:31:50Z
 - [术语卡片：父母宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-12.html) · [原文](https://ziweidoushu.info/dict/gongwei/fumu-gong) · 2026-03-05T11:31:44Z
 - [紫微常用格局圖鑑：典型組合與關鍵判讀](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1581.html) · [原文](https://ziweidoushu.info/article/ziwei-changyong-geju-tujian) · 2026-03-05T11:31:35Z
-- [三方四正核心課：結構意義與判讀思路](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1582.html) · [原文](https://ziweidoushu.info/article/sanfang-sizheng-hexin-ke) · 2026-03-05T11:31:26Z
-- [三方四正應用案例：主題事件與策略調整](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1583.html) · [原文](https://ziweidoushu.info/article/sanfang-sizheng-yingyong-anli) · 2026-03-05T11:31:19Z
-- [疊宮與借盤全指南：盤局重疊的判斷方法](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1584.html) · [原文](https://ziweidoushu.info/article/diegong-jiepan-quan-zhinan) · 2026-03-05T11:31:12Z
-- [大限分析權威手冊：十年行運與人生節奏](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1585.html) · [原文](https://ziweidoushu.info/article/daxian-fenxi-quanwei-shouce) · 2026-03-05T11:31:03Z
-- [术语卡片：福德宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-11.html) · [原文](https://ziweidoushu.info/dict/gongwei/fude-gong) · 2026-03-05T02:20:10Z
-- [流年分析全攻略：年度主題與關鍵應期](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1586.html) · [原文](https://ziweidoushu.info/article/liunian-fenxi-quan-gonglue) · 2026-03-05T02:20:07Z
-- [术语卡片：田宅宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-10.html) · [原文](https://ziweidoushu.info/dict/gongwei/tianzhai-gong) · 2026-03-04T02:34:39Z
-- [流年策略實務：愛情、事業與創業的判盤指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1587.html) · [原文](https://ziweidoushu.info/article/liunian-celue-shiwu) · 2026-03-04T02:34:35Z

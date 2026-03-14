@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-13T10:31:34Z
+- Last updated: 2026-03-14T02:21:09Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：流月](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-49.html) · [原文](https://ziweidoushu.info/dict/xingyun/liuyue) · 2026-03-14T02:21:09Z
+- [术语卡片：小限](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-48.html) · [原文](https://ziweidoushu.info/dict/xingyun/xiaoxian) · 2026-03-14T02:21:01Z
+- [术语卡片：大限](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-47.html) · [原文](https://ziweidoushu.info/dict/xingyun/daxian) · 2026-03-14T02:20:53Z
+- [貪狼星深度解析：紫微斗數第一桃花星的性格、事業、感情與命運全攻略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1522.html) · [原文](https://ziweidoushu.info/article/tan-lang-xing-zi-wei-dou-shu-jie-xi) · 2026-03-14T02:20:45Z
+- [巨門星終極指南：全面解析紫微斗數「暗星」，從性格、事業、感情運勢到化祿、化權、化忌的深度剖析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1523.html) · [原文](https://ziweidoushu.info/article/ju-men-xing-quan-gong-lue) · 2026-03-14T02:20:37Z
+- [天相星終極指南：2024最詳盡解析！一篇搞懂天相星坐命的事業、愛情、財運與格局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1524.html) · [原文](https://ziweidoushu.info/article/ziwei-tian-xiang-xing-analysis) · 2026-03-14T02:20:29Z
+- [天梁星詳解：紫微斗數中的「蔭星」與「老大星」，從命宮、廟旺、四化深入分析你的性格、事業與運勢](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1525.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-tian-liang-xing-jiexi) · 2026-03-14T02:20:21Z
+- [七殺星深度解析：紫微斗數中的大將軍！一篇搞懂七殺坐命的性格、事業、財運與感情運勢](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1526.html) · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-qi-sha-xing-jiexi) · 2026-03-14T02:20:13Z
 - [术语卡片：流年]() · [原文](https://ziweidoushu.info/dict/xingyun/liunian) · 2026-03-13T10:31:34Z
 - [【破軍星最全詳解】紫微斗數「破軍星」入命宮：從性格、財運、事業、感情到化祿化權，萬字長文助你掌握人生變局！]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-po-jun-xing-xiang-jie) · 2026-03-13T10:31:04Z
 - [【紫微斗數萬字詳解】四化全攻略：從化祿、化權、化科、化忌入門到精通（2024最新版）]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-si-hua-xiang-jie) · 2026-03-13T10:30:33Z
@@ -78,11 +86,3 @@
 - [术语卡片：太陰](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-20.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyin) · 2026-03-07T02:22:46Z
 - [术语卡片：天府](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-19.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tianfu) · 2026-03-07T02:22:26Z
 - [术语卡片：廉貞](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-18.html) · [原文](https://ziweidoushu.info/dict/zhuxing/lianzhen) · 2026-03-07T02:22:06Z
-- [雜曜百問：輔助星曜的歷史、象徵與實務](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1571.html) · [原文](https://ziweidoushu.info/article/zayao-baiwen) · 2026-03-07T02:21:46Z
-- [星曜亮度判讀指南：明暗變化與吉凶評估](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1572.html) · [原文](https://ziweidoushu.info/article/xingyao-liangdu-zhinan) · 2026-03-07T02:21:25Z
-- [四化飛星基礎課：化祿化權化科化忌的核心機制](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1573.html) · [原文](https://ziweidoushu.info/article/sihua-feixing-jichu-ke) · 2026-03-07T02:21:04Z
-- [四化進階應用：流年飛化與實戰判盤流程](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1574.html) · [原文](https://ziweidoushu.info/article/sihua-jinjie-yingyong) · 2026-03-07T02:20:44Z
-- [生年四化全解析：命盤底層程式碼](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1575.html) · [原文](https://ziweidoushu.info/article/shengnian-sihua-quan-jiexi) · 2026-03-07T02:20:23Z
-- [术语卡片：天同](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-17.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tiantong) · 2026-03-06T02:22:45Z
-- [术语卡片：武曲](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-16.html) · [原文](https://ziweidoushu.info/dict/zhuxing/wuqu) · 2026-03-06T02:22:25Z
-- [术语卡片：太陽](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-15.html) · [原文](https://ziweidoushu.info/dict/zhuxing/taiyang) · 2026-03-06T02:22:05Z

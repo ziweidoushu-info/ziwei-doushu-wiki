@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-14T02:31:35Z
+- Last updated: 2026-03-14T06:31:35Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：三方四正]() · [原文](https://ziweidoushu.info/dict/jifa/sanfang-sizheng) · 2026-03-14T06:31:35Z
+- [天同星詳解：紫微斗數中的福星與情緒之主，從命宮、廟旺、四化看懂你的性格與運勢]() · [原文](https://ziweidoushu.info/article/tian-tong-xing-zi-wei-dou-shu-analysis) · 2026-03-14T06:31:04Z
+- [廉貞星全面解析：從事業、感情到化祿化忌，深度揭祕紫微斗數中的「囚」與「桃花」]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-lian-zhen-xing-guide) · 2026-03-14T06:30:32Z
 - [术语卡片：流日]() · [原文](https://ziweidoushu.info/dict/xingyun/liuri) · 2026-03-14T02:31:35Z
 - [紫微斗數天府星終極指南：全面解析南斗帝星的性格、財運與十二宮位奧祕]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-tian-fu-xing-jiexi) · 2026-03-14T02:31:04Z
 - [【紫微斗數萬字詳解】太陰星坐命宮全攻略：從性格、事業、財運、感情到四化廟旺，一篇看懂月亮之星]() · [原文](https://ziweidoushu.info/article/tai-yin-xing-zi-wei-dou-shu-complete-guide) · 2026-03-14T02:30:33Z
@@ -83,6 +86,3 @@
 - [术语卡片：貪狼](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-21.html) · [原文](https://ziweidoushu.info/dict/zhuxing/tanlang) · 2026-03-08T02:22:05Z
 - [父母宮家族密碼：原生家庭對命運的影響解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1566.html) · [原文](https://ziweidoushu.info/article/fumugong-jiazu-mima) · 2026-03-08T02:21:45Z
 - [十四主星性格全書：人格設定與行運表現](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1567.html) · [原文](https://ziweidoushu.info/article/shisizhuxing-xingge-quanshu) · 2026-03-08T02:21:25Z
-- [輔星與吉星指南：助力星曜的判讀與應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1568.html) · [原文](https://ziweidoushu.info/article/fuxing-jixing-zhinan) · 2026-03-08T02:21:04Z
-- [煞星忌星深度解析：風險預警與化解策略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1569.html) · [原文](https://ziweidoushu.info/article/shaxing-jixing-shendu-jiexi) · 2026-03-08T02:20:43Z
-- [祿存天馬全解析：財富流動與行動力密碼](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1570.html) · [原文](https://ziweidoushu.info/article/lucun-tianma-quan-jiexi) · 2026-03-08T02:20:23Z

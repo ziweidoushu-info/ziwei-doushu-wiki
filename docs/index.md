@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-15T02:21:08Z
+- Last updated: 2026-03-15T02:31:35Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：自化與沖照]() · [原文](https://ziweidoushu.info/dict/jifa/zihua-chongzhao) · 2026-03-15T02:31:35Z
+- [十四主星性格特質解析]() · [原文](https://ziweidoushu.info/article/shisi-zhuxing-xingge-tezhijixi) · 2026-03-15T02:31:04Z
+- [紫微斗數煞星與忌星萬字全解析：擎羊、陀羅、火星、鈴星、地空、地劫、化忌的影響與化解之道]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-sha-xing-yu-ji-xing-jiexi) · 2026-03-15T02:30:33Z
 - [术语卡片：三合](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-55.html) · [原文](https://ziweidoushu.info/dict/jifa/sanhe) · 2026-03-15T02:21:08Z
 - [术语卡片：對宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-54.html) · [原文](https://ziweidoushu.info/dict/jifa/dui-gong) · 2026-03-15T02:21:00Z
 - [术语卡片：會照](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-53.html) · [原文](https://ziweidoushu.info/dict/jifa/huizhao) · 2026-03-15T02:20:52Z
@@ -83,6 +86,3 @@
 - [疾厄宮健康全攻略：體質、疾病與復原力解碼](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1557.html) · [原文](https://ziweidoushu.info/article/jieegong-jiankang-gonglue) · 2026-03-10T02:21:33Z
 - [疾厄宮案例實戰：意外、環境與醫療應對](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1558.html) · [原文](https://ziweidoushu.info/article/jieegong-anli-shizhan) · 2026-03-10T02:21:12Z
 - [遷移宮深度攻略：旅居、移民與人生轉換](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1559.html) · [原文](https://ziweidoushu.info/article/qianyigong-shendu-gonglue) · 2026-03-10T02:20:49Z
-- [奴僕交友宮指南：人際網絡與貴人運的紫微法則](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1560.html) · [原文](https://ziweidoushu.info/article/jiaoyougong-guiren-faze) · 2026-03-10T02:20:23Z
-- [术语卡片：破軍](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-26.html) · [原文](https://ziweidoushu.info/dict/zhuxing/pojun) · 2026-03-09T02:22:52Z
-- [术语卡片：七殺](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-25.html) · [原文](https://ziweidoushu.info/dict/zhuxing/qisha) · 2026-03-09T02:22:32Z

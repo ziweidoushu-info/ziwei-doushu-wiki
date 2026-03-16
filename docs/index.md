@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-15T10:31:33Z
+- Last updated: 2026-03-16T02:21:06Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：日月照壁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-61.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-zhao-bi) · 2026-03-16T02:21:06Z
+- [术语卡片：機月同梁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-60.html) · [原文](https://ziweidoushu.info/dict/geju/ji-yue-tong-liang) · 2026-03-16T02:20:58Z
+- [术语卡片：紫府朝垣](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-59.html) · [原文](https://ziweidoushu.info/dict/geju/zifu-zhao-yuan) · 2026-03-16T02:20:50Z
+- [祿存與天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-39.html) · [原文](https://ziweidoushu.info/article/lu-cun-yu-tian-ma) · 2026-03-16T02:20:42Z
+- [《紫微斗數解密：雜曜星曜的基礎知識與命盤應用》](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-40.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-za-yao-xing-ji-chu-ying-yong) · 2026-03-16T02:20:36Z
+- [紫微斗數四化精要：禄權科忌的基礎解析與應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-42.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-si-hua-jing-yao-ji-chu-ying-yong) · 2026-03-16T02:20:28Z
+- [紫微斗數飛星技法入門：基礎概念與實戰應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-44.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-fei-xing-ji-fa-ru-men-ying-yong) · 2026-03-16T02:20:20Z
+- [紫微斗數常見格局入門：從基礎掌握命盤吉凶](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-46.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-chang-jian-ge-ju-ru-men-ji-xiong) · 2026-03-16T02:20:12Z
 - [术语卡片：紫府同宮]() · [原文](https://ziweidoushu.info/dict/geju/zifu-tong-gong) · 2026-03-15T10:31:33Z
 - [紫微斗數流年分析入門：從命盤基礎到吉凶預測]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-liu-nian-fen-xi-ji-xiong-yu-ce) · 2026-03-15T10:31:03Z
 - [紫微斗數入門：解讀事業財運的命盤關鍵]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-shi-ye-cai-yun-ming-pan-jie-xi) · 2026-03-15T10:30:32Z
@@ -78,11 +86,3 @@
 - [术语卡片：天鉞](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-32.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianyue) · 2026-03-11T02:21:42Z
 - [术语卡片：天魁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-31.html) · [原文](https://ziweidoushu.info/dict/fuxing/tiankui) · 2026-03-11T02:21:21Z
 - [命宮與十二宮互動：人生議題整合案例庫](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1549.html) · [原文](https://ziweidoushu.info/article/minggong-shiergong-hudong) · 2026-03-11T02:21:13Z
-- [兄弟宮深度指南：手足、人際與合作互動](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1550.html) · [原文](https://ziweidoushu.info/article/xiongdigong-shendu-zhinan) · 2026-03-11T02:20:52Z
-- [夫妻宮終極攻略：主星、四化與婚姻模式解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1551.html) · [原文](https://ziweidoushu.info/article/fuqigong-zhongji-gonglue) · 2026-03-11T02:20:31Z
-- [紫微斗數婚姻案例庫：不同命格的感情應對策略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1552.html) · [原文](https://ziweidoushu.info/article/ziwei-hunyin-anliku) · 2026-03-11T02:20:22Z
-- [子女宮全書：孕育、教養與命格啟示](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1553.html) · [原文](https://ziweidoushu.info/article/zinvgong-quanshu) · 2026-03-11T02:20:13Z
-- [术语卡片：文曲](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-30.html) · [原文](https://ziweidoushu.info/dict/fuxing/wenqu) · 2026-03-10T02:36:16Z
-- [子女宮實戰指南：與財帛、夫妻宮的關聯解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1554.html) · [原文](https://ziweidoushu.info/article/zinvgong-shizhan-zhinan) · 2026-03-10T02:36:05Z
-- [財帛宮財富藍圖：主星組合與財運起伏](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1555.html) · [原文](https://ziweidoushu.info/article/caibigong-caifu-lantu) · 2026-03-10T02:35:54Z
-- [术语卡片：文昌](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-29.html) · [原文](https://ziweidoushu.info/dict/fuxing/wenchang) · 2026-03-10T02:22:54Z

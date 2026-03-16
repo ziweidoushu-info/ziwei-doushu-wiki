@@ -1,13 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-16T02:21:06Z
+- Last updated: 2026-03-16T02:21:54Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
-- [术语卡片：日月照壁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-61.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-zhao-bi) · 2026-03-16T02:21:06Z
-- [术语卡片：機月同梁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-60.html) · [原文](https://ziweidoushu.info/dict/geju/ji-yue-tong-liang) · 2026-03-16T02:20:58Z
+- [术语卡片：日月反背](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-62.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-fan-bei) · 2026-03-16T02:21:54Z
+- [术语卡片：日月照壁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-61.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-zhao-bi) · 2026-03-16T02:21:46Z
+- [术语卡片：機月同梁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-60.html) · [原文](https://ziweidoushu.info/dict/geju/ji-yue-tong-liang) · 2026-03-16T02:21:38Z
+- [命盤結構與排盤](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-34.html) · [原文](https://ziweidoushu.info/article/ming-pan-jie-gou-pai-pan) · 2026-03-16T02:21:30Z
+- [陰陽五行與干支](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-35.html) · [原文](https://ziweidoushu.info/article/yin-yang-wu-xing-yu-gan-zhi) · 2026-03-16T02:21:22Z
+- [十四主星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-36.html) · [原文](https://ziweidoushu.info/article/shi-si-zhu-xing) · 2026-03-16T02:21:14Z
+- [紫微斗數中的輔星與吉星解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-37.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-zhong-de-fu-xing-yu-ji-xing-jie-xi) · 2026-03-16T02:21:08Z
+- [煞星與忌星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-38.html) · [原文](https://ziweidoushu.info/article/sha-xing-yu-ji-xing) · 2026-03-16T02:21:00Z
 - [术语卡片：紫府朝垣](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-59.html) · [原文](https://ziweidoushu.info/dict/geju/zifu-zhao-yuan) · 2026-03-16T02:20:50Z
 - [祿存與天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-39.html) · [原文](https://ziweidoushu.info/article/lu-cun-yu-tian-ma) · 2026-03-16T02:20:42Z
 - [《紫微斗數解密：雜曜星曜的基礎知識與命盤應用》](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-40.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-za-yao-xing-ji-chu-ying-yong) · 2026-03-16T02:20:36Z
@@ -80,9 +86,3 @@
 - [紫微斗數入門總攻略：命盤基礎概念與學習路線](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1544.html) · [原文](https://ziweidoushu.info/article/ziwei-rumen-zong-gonglue) · 2026-03-12T02:21:26Z
 - [命盤結構全解析：十二宮位與星曜布局指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1545.html) · [原文](https://ziweidoushu.info/article/mingpan-jiegou-quan-jiexi) · 2026-03-12T02:21:17Z
 - [紫微斗數排盤實務：宮干四化與盤面判讀流程](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1546.html) · [原文](https://ziweidoushu.info/article/ziwei-paipan-shiwu-liucheng) · 2026-03-12T02:21:09Z
-- [陰陽五行與干支基礎：紫微斗數能量平衡指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1547.html) · [原文](https://ziweidoushu.info/article/yinyang-wuxing-ganzhi-jichu) · 2026-03-12T02:20:47Z
-- [命宮核心指南：主星組合與人格原型解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1548.html) · [原文](https://ziweidoushu.info/article/minggong-hexin-zhinan) · 2026-03-12T02:20:26Z
-- [术语卡片：擎羊](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-33.html) · [原文](https://ziweidoushu.info/dict/fuxing/qingyang) · 2026-03-11T02:22:03Z
-- [术语卡片：天鉞](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-32.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianyue) · 2026-03-11T02:21:42Z
-- [术语卡片：天魁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-31.html) · [原文](https://ziweidoushu.info/dict/fuxing/tiankui) · 2026-03-11T02:21:21Z
-- [命宮與十二宮互動：人生議題整合案例庫](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1549.html) · [原文](https://ziweidoushu.info/article/minggong-shiergong-hudong) · 2026-03-11T02:21:13Z

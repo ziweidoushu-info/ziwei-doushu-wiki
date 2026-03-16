@@ -1,11 +1,14 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-16T02:21:54Z
+- Last updated: 2026-03-16T02:31:34Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：貪巨]() · [原文](https://ziweidoushu.info/dict/geju/tan-ju) · 2026-03-16T02:31:34Z
+- [福德宮的幸福密碼：探尋內在喜悅與精神財富的星盤奧祕]() · [原文](https://ziweidoushu.info/article/fu-de-gong-jie-shao) · 2026-03-16T02:31:03Z
+- [父母宮的家族印記：解析原生家庭與成長環境的星象圖譜]() · [原文](https://ziweidoushu.info/article/fu-mu-gong-jie-shao) · 2026-03-16T02:30:32Z
 - [术语卡片：日月反背](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-62.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-fan-bei) · 2026-03-16T02:21:54Z
 - [术语卡片：日月照壁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-61.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-zhao-bi) · 2026-03-16T02:21:46Z
 - [术语卡片：機月同梁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-60.html) · [原文](https://ziweidoushu.info/dict/geju/ji-yue-tong-liang) · 2026-03-16T02:21:38Z
@@ -83,6 +86,3 @@
 - [术语卡片：鈴星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-36.html) · [原文](https://ziweidoushu.info/dict/fuxing/lingxing) · 2026-03-12T02:22:15Z
 - [术语卡片：火星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-35.html) · [原文](https://ziweidoushu.info/dict/fuxing/huoxing) · 2026-03-12T02:21:55Z
 - [术语卡片：陀羅](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-34.html) · [原文](https://ziweidoushu.info/dict/fuxing/tuoluo) · 2026-03-12T02:21:34Z
-- [紫微斗數入門總攻略：命盤基礎概念與學習路線](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1544.html) · [原文](https://ziweidoushu.info/article/ziwei-rumen-zong-gonglue) · 2026-03-12T02:21:26Z
-- [命盤結構全解析：十二宮位與星曜布局指南](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1545.html) · [原文](https://ziweidoushu.info/article/mingpan-jiegou-quan-jiexi) · 2026-03-12T02:21:17Z
-- [紫微斗數排盤實務：宮干四化與盤面判讀流程](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1546.html) · [原文](https://ziweidoushu.info/article/ziwei-paipan-shiwu-liucheng) · 2026-03-12T02:21:09Z

@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-17T02:21:08Z
+- Last updated: 2026-03-17T02:22:17Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：廟旺平陷](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-71.html) · [原文](https://ziweidoushu.info/dict/jichugainian/miao-wang-ping-xian) · 2026-03-17T02:22:17Z
+- [术语卡片：寡宿](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-70.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/gua-su) · 2026-03-17T02:22:09Z
+- [术语卡片：孤辰](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-69.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/gu-chen) · 2026-03-17T02:22:02Z
+- [紫微斗數命例解析：經典命盤實務入門](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-865.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-mingli-jiexi-rumen) · 2026-03-17T02:21:53Z
+- [命宮是什麼？紫微斗數核心宮位全面解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-7.html) · [原文](https://ziweidoushu.info/article/ming-gong-jiben-gainian) · 2026-03-17T02:21:46Z
+- [兄弟宮入門：紫微鬥數中的人際關繫解讀](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-10.html) · [原文](https://ziweidoushu.info/article/brother-palace-basics) · 2026-03-17T02:21:38Z
+- [夫妻宮是什麼？紫微斗數中的婚姻密碼大公開](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-13.html) · [原文](https://ziweidoushu.info/article/what-is-spouse-palace) · 2026-03-17T02:21:29Z
+- [什麼是大限分析？初學者必知的基礎概念](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-16.html) · [原文](https://ziweidoushu.info/article/what-is-daxian-analysis) · 2026-03-17T02:21:21Z
 - [术语卡片：咸池](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-68.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/xian-chi) · 2026-03-17T02:21:08Z
 - [术语卡片：天刑](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-67.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/tian-xing) · 2026-03-17T02:21:00Z
 - [术语卡片：天姚](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-66.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/tian-yao) · 2026-03-17T02:20:52Z
@@ -78,11 +86,3 @@
 - [紫微斗數核心：生年四化終極詳解，一篇搞懂化祿、化權、化科、化忌，看穿你的人生劇本與天賦]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-sheng-nian-si-hua-ultimate-guide) · 2026-03-13T06:31:03Z
 - [飛星技法全攻略：從入門到精通，學會紫微斗數四化飛星的終極指南]() · [原文](https://ziweidoushu.info/article/ziwei-feixing-jifa-gong-lue) · 2026-03-13T06:30:32Z
 - [术语卡片：化科]() · [原文](https://ziweidoushu.info/dict/sihua/huake) · 2026-03-13T02:31:34Z
-- [萬字詳解紫微斗數「自化與沖照」：從飛星四化看懂命運的因果與轉機]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-zihua-chongzhao-pillar-guide) · 2026-03-13T02:31:04Z
-- [論命步驟全攻略：從新手入門到大師的終極萬字指南 (2024詳解版)]() · [原文](https://ziweidoushu.info/article/lun-ming-bu-zhou-wan-quan-jiaoxue-zhi-nan) · 2026-03-13T02:30:33Z
-- [术语卡片：化權](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-42.html) · [原文](https://ziweidoushu.info/dict/sihua/huaquan) · 2026-03-13T02:21:38Z
-- [术语卡片：化祿](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-41.html) · [原文](https://ziweidoushu.info/dict/sihua/hualu) · 2026-03-13T02:21:30Z
-- [术语卡片：天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-40.html) · [原文](https://ziweidoushu.info/dict/fuxing/tianma) · 2026-03-13T02:21:22Z
-- [紫微斗數常用格局總整理：一篇搞懂所有吉格與凶格，解盤功力大躍進！](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1533.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-changyong-geju-zongzhengli) · 2026-03-13T02:21:14Z
-- [「三方四正」全攻略：深度解析紫微斗數命盤核心，看懂你的事業、財富與人生格局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1534.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-san-fang-si-zheng-guide) · 2026-03-13T02:21:06Z
-- [紫微斗數進階秘訣：疊宮與借盤全方位指南｜從空宮論命到運勢推演的獨家詳解](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1535.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-die-gong-jie-pan) · 2026-03-13T02:20:58Z

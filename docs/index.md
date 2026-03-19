@@ -1,11 +1,19 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-18T02:21:11Z
+- Last updated: 2026-03-19T02:21:11Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [术语卡片：身主](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-78.html) · [原文](https://ziweidoushu.info/dict/jichugainian/shen-zhu) · 2026-03-19T02:21:11Z
+- [术语卡片：命主](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-77.html) · [原文](https://ziweidoushu.info/dict/jichugainian/ming-zhu) · 2026-03-19T02:21:03Z
+- [术语卡片：北斗星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-76.html) · [原文](https://ziweidoushu.info/dict/jichugainian/bei-dou-xing) · 2026-03-19T02:20:55Z
+- [紫微斗數排盤方法與步驟](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-256.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-paipan) · 2026-03-19T02:20:47Z
+- [紫微斗數四化（化祿化權化科化忌）基礎解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-257.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-sihua-jiexi) · 2026-03-19T02:20:39Z
+- [紫微斗數命宮與身宮的區別及意義](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-258.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-minggong-shengong-qubie) · 2026-03-19T02:20:31Z
+- [紫微斗數流年運勢解析入門](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-368.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-liunian-yunshi-rumen) · 2026-03-19T02:20:23Z
+- [紫微斗數十二主星人格特質解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-370.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-shier-zhuxing-renge) · 2026-03-19T02:20:15Z
 - [术语卡片：南斗星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-75.html) · [原文](https://ziweidoushu.info/dict/jichugainian/nan-dou-xing) · 2026-03-18T02:21:11Z
 - [术语卡片：陰陽](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-74.html) · [原文](https://ziweidoushu.info/dict/jichugainian/yin-yang) · 2026-03-18T02:21:03Z
 - [术语卡片：五行](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-73.html) · [原文](https://ziweidoushu.info/dict/jichugainian/wu-xing) · 2026-03-18T02:20:55Z
@@ -78,11 +86,3 @@
 - [武曲星全解析：紫微斗數最強財星的事業、財運、婚姻深度指南（萬字詳解）]() · [原文](https://ziweidoushu.info/article/ziwei-dou-shu-wu-qu-xing-complete-guide) · 2026-03-14T10:30:32Z
 - [术语卡片：三方四正]() · [原文](https://ziweidoushu.info/dict/jifa/sanfang-sizheng) · 2026-03-14T06:31:35Z
 - [天同星詳解：紫微斗數中的福星與情緒之主，從命宮、廟旺、四化看懂你的性格與運勢]() · [原文](https://ziweidoushu.info/article/tian-tong-xing-zi-wei-dou-shu-analysis) · 2026-03-14T06:31:04Z
-- [廉貞星全面解析：從事業、感情到化祿化忌，深度揭祕紫微斗數中的「囚」與「桃花」]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-lian-zhen-xing-guide) · 2026-03-14T06:30:32Z
-- [术语卡片：流日]() · [原文](https://ziweidoushu.info/dict/xingyun/liuri) · 2026-03-14T02:31:35Z
-- [紫微斗數天府星終極指南：全面解析南斗帝星的性格、財運與十二宮位奧祕]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-tian-fu-xing-jiexi) · 2026-03-14T02:31:04Z
-- [【紫微斗數萬字詳解】太陰星坐命宮全攻略：從性格、事業、財運、感情到四化廟旺，一篇看懂月亮之星]() · [原文](https://ziweidoushu.info/article/tai-yin-xing-zi-wei-dou-shu-complete-guide) · 2026-03-14T02:30:33Z
-- [术语卡片：流月](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-49.html) · [原文](https://ziweidoushu.info/dict/xingyun/liuyue) · 2026-03-14T02:21:09Z
-- [术语卡片：小限](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-48.html) · [原文](https://ziweidoushu.info/dict/xingyun/xiaoxian) · 2026-03-14T02:21:01Z
-- [术语卡片：大限](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-47.html) · [原文](https://ziweidoushu.info/dict/xingyun/daxian) · 2026-03-14T02:20:53Z
-- [貪狼星深度解析：紫微斗數第一桃花星的性格、事業、感情與命運全攻略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1522.html) · [原文](https://ziweidoushu.info/article/tan-lang-xing-zi-wei-dou-shu-jie-xi) · 2026-03-14T02:20:45Z

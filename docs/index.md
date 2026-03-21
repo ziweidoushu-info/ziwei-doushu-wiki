@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-20T02:20:48Z
+- Last updated: 2026-03-21T02:20:50Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [動態圈層：「破軍星」坐守「交友宮」盟友優先](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1505.html) · [原文](https://ziweidoushu.info/article/pojun-jiaoyougong) · 2026-03-21T02:20:50Z
+- [轉型高手：「破軍星」坐守「事業宮」重整與翻身](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1506.html) · [原文](https://ziweidoushu.info/article/pojun-shiyegong) · 2026-03-21T02:20:42Z
+- [空間重構：「破軍星」坐守「田宅宮」搬遷與翻修](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1507.html) · [原文](https://ziweidoushu.info/article/pojun-tianzhaigong) · 2026-03-21T02:20:34Z
+- [破除執著即自由：「破軍星」坐守「福德宮」心靈斷捨離](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1508.html) · [原文](https://ziweidoushu.info/article/pojun-fudegong) · 2026-03-21T02:20:26Z
+- [緣起緣滅：「破軍星」坐守「父母宮」距離與連結](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1509.html) · [原文](https://ziweidoushu.info/article/pojun-fumugong) · 2026-03-21T02:20:18Z
 - [紫微鬥數哪個宮最重要？](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-gong-wei) · 2026-03-20T02:20:48Z
 - [紫微鬥數可以問什麼？](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-3.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-how-to-ask) · 2026-03-20T02:20:40Z
 - [紫微鬥數十二宮位解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-144.html) · [原文](https://ziweidoushu.info/article/ziwei-shiergong-jiexi) · 2026-03-20T02:20:32Z
@@ -81,8 +86,3 @@
 - [术语卡片：三合](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-55.html) · [原文](https://ziweidoushu.info/dict/jifa/sanhe) · 2026-03-15T02:21:08Z
 - [术语卡片：對宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-54.html) · [原文](https://ziweidoushu.info/dict/jifa/dui-gong) · 2026-03-15T02:21:00Z
 - [术语卡片：會照](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-53.html) · [原文](https://ziweidoushu.info/dict/jifa/huizhao) · 2026-03-15T02:20:52Z
-- [紫微斗數深度解析：祿存與天馬的奧秘，揭開「祿馬交馳」富貴格局的關鍵](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1511.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-lu-cun-yu-tian-ma) · 2026-03-15T02:20:44Z
-- [紫微斗數雜曜全解析：從博士十二神到桃花星系，一篇搞懂100+顆輔星的隱藏力量與吉凶影響](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1512.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-za-yao-quan-jie-xi) · 2026-03-15T02:20:36Z
-- [紫微斗數星曜亮度終極指南：從廟旺利陷看懂命盤吉凶與格局變化](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1513.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-xingyao-liangdu-miao-wang-xian) · 2026-03-15T02:20:28Z
-- [紫微星終極指南：全面解析紫微斗數帝王之星的奧祕（含性格、格局、十二宮位詳解）](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1514.html) · [原文](https://ziweidoushu.info/article/zi-wei-xing-quan-mian-jie-xi) · 2026-03-15T02:20:20Z
-- [天機星深度解析：紫微斗數中的「智多星」，一篇看懂你的性格、事業、財運與人生格局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1515.html) · [原文](https://ziweidoushu.info/article/tian-ji-xing-quan-jie-xi) · 2026-03-15T02:20:12Z

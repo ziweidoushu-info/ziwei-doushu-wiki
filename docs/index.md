@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-21T02:20:50Z
+- Last updated: 2026-03-22T02:20:47Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [非常之愛：「破軍星」坐守「夫妻宮」轉折與新局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1500.html) · [原文](https://ziweidoushu.info/article/pojun-fuqigong) · 2026-03-22T02:20:47Z
+- [創造力解鎖：「破軍星」坐守「子女宮」非典型路徑](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1501.html) · [原文](https://ziweidoushu.info/article/pojun-zinvgong) · 2026-03-22T02:20:39Z
+- [重整資產：「破軍星」坐守「財帛宮」結束與展新](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1502.html) · [原文](https://ziweidoushu.info/article/pojun-caibogong) · 2026-03-22T02:20:31Z
+- [節律重建：「破軍星」坐守「疾厄宮」作息與壓力](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1503.html) · [原文](https://ziweidoushu.info/article/pojun-jieegong) · 2026-03-22T02:20:23Z
+- [異地開局：「破軍星」坐守「遷移宮」重生佈局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1504.html) · [原文](https://ziweidoushu.info/article/pojun-qianyigong) · 2026-03-22T02:20:15Z
 - [動態圈層：「破軍星」坐守「交友宮」盟友優先](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1505.html) · [原文](https://ziweidoushu.info/article/pojun-jiaoyougong) · 2026-03-21T02:20:50Z
 - [轉型高手：「破軍星」坐守「事業宮」重整與翻身](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1506.html) · [原文](https://ziweidoushu.info/article/pojun-shiyegong) · 2026-03-21T02:20:42Z
 - [空間重構：「破軍星」坐守「田宅宮」搬遷與翻修](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1507.html) · [原文](https://ziweidoushu.info/article/pojun-tianzhaigong) · 2026-03-21T02:20:34Z
@@ -81,8 +86,3 @@
 - [紫微斗數看姻緣：婚姻宮位與星曜基礎解析]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-hun-yin-gong-wei-xing-yao-jie-xi) · 2026-03-15T06:31:03Z
 - [紫微斗數健康預測：疾厄宮的基礎解析與應用]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-jian-kang-ji-e-gong-jie-xi-ying-yong) · 2026-03-15T06:30:32Z
 - [术语卡片：自化與沖照]() · [原文](https://ziweidoushu.info/dict/jifa/zihua-chongzhao) · 2026-03-15T02:31:35Z
-- [十四主星性格特質解析]() · [原文](https://ziweidoushu.info/article/shisi-zhuxing-xingge-tezhijixi) · 2026-03-15T02:31:04Z
-- [紫微斗數煞星與忌星萬字全解析：擎羊、陀羅、火星、鈴星、地空、地劫、化忌的影響與化解之道]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-sha-xing-yu-ji-xing-jiexi) · 2026-03-15T02:30:33Z
-- [术语卡片：三合](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-55.html) · [原文](https://ziweidoushu.info/dict/jifa/sanhe) · 2026-03-15T02:21:08Z
-- [术语卡片：對宮](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-54.html) · [原文](https://ziweidoushu.info/dict/jifa/dui-gong) · 2026-03-15T02:21:00Z
-- [术语卡片：會照](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-53.html) · [原文](https://ziweidoushu.info/dict/jifa/huizhao) · 2026-03-15T02:20:52Z

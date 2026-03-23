@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-22T02:20:47Z
+- Last updated: 2026-03-23T02:20:54Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [翻新達人：「七殺星」坐守「田宅宮」破舊立新](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1495.html) · [原文](https://ziweidoushu.info/article/qisha-tianzhaigong) · 2026-03-23T02:20:54Z
+- [突破即喜悅：「七殺星」坐守「福德宮」定性修煉](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1496.html) · [原文](https://ziweidoushu.info/article/qisha-fudegong) · 2026-03-23T02:20:46Z
+- [嚴父鋼規：「七殺星」坐守「父母宮」自立課](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1497.html) · [原文](https://ziweidoushu.info/article/qisha-fumugong) · 2026-03-23T02:20:38Z
+- [破舊立新入命：「破軍星」坐守「命宮」重啟人生學](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1498.html) · [原文](https://ziweidoushu.info/article/pojun-minggong) · 2026-03-23T02:20:29Z
+- [關係重構：「破軍星」坐守「兄弟宮」合作再設計](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1499.html) · [原文](https://ziweidoushu.info/article/pojun-xiongdigong) · 2026-03-23T02:20:21Z
 - [非常之愛：「破軍星」坐守「夫妻宮」轉折與新局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1500.html) · [原文](https://ziweidoushu.info/article/pojun-fuqigong) · 2026-03-22T02:20:47Z
 - [創造力解鎖：「破軍星」坐守「子女宮」非典型路徑](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1501.html) · [原文](https://ziweidoushu.info/article/pojun-zinvgong) · 2026-03-22T02:20:39Z
 - [重整資產：「破軍星」坐守「財帛宮」結束與展新](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1502.html) · [原文](https://ziweidoushu.info/article/pojun-caibogong) · 2026-03-22T02:20:31Z
@@ -81,8 +86,3 @@
 - [紫微斗數常見格局入門：從基礎掌握命盤吉凶](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-46.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-chang-jian-ge-ju-ru-men-ji-xiong) · 2026-03-16T02:20:12Z
 - [术语卡片：紫府同宮]() · [原文](https://ziweidoushu.info/dict/geju/zifu-tong-gong) · 2026-03-15T10:31:33Z
 - [紫微斗數流年分析入門：從命盤基礎到吉凶預測]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-liu-nian-fen-xi-ji-xiong-yu-ce) · 2026-03-15T10:31:03Z
-- [紫微斗數入門：解讀事業財運的命盤關鍵]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-shi-ye-cai-yun-ming-pan-jie-xi) · 2026-03-15T10:30:32Z
-- [术语卡片：殺破狼]() · [原文](https://ziweidoushu.info/dict/geju/sha-po-lang) · 2026-03-15T06:31:34Z
-- [紫微斗數看姻緣：婚姻宮位與星曜基礎解析]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-hun-yin-gong-wei-xing-yao-jie-xi) · 2026-03-15T06:31:03Z
-- [紫微斗數健康預測：疾厄宮的基礎解析與應用]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-jian-kang-ji-e-gong-jie-xi-ying-yong) · 2026-03-15T06:30:32Z
-- [术语卡片：自化與沖照]() · [原文](https://ziweidoushu.info/dict/jifa/zihua-chongzhao) · 2026-03-15T02:31:35Z

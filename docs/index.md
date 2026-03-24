@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-23T02:20:54Z
+- Last updated: 2026-03-24T02:20:49Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [高風險高回報：「七殺星」坐守「財帛宮」專案獎金學](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1490.html) · [原文](https://ziweidoushu.info/article/qisha-caibogong) · 2026-03-24T02:20:49Z
+- [防護至上：「七殺星」坐守「疾厄宮」事故風險管理](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1491.html) · [原文](https://ziweidoushu.info/article/qisha-jieegong) · 2026-03-24T02:20:41Z
+- [征戰四方：「七殺星」坐守「遷移宮」開疆佈局](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1492.html) · [原文](https://ziweidoushu.info/article/qisha-qianyigong) · 2026-03-24T02:20:33Z
+- [硬派朋友圈：「七殺星」坐守「交友宮」義氣與勝負](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1493.html) · [原文](https://ziweidoushu.info/article/qisha-jiaoyougong) · 2026-03-24T02:20:25Z
+- [危機處理：「七殺星」坐守「事業宮」創業與競技](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1494.html) · [原文](https://ziweidoushu.info/article/qisha-shiyegong) · 2026-03-24T02:20:16Z
 - [翻新達人：「七殺星」坐守「田宅宮」破舊立新](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1495.html) · [原文](https://ziweidoushu.info/article/qisha-tianzhaigong) · 2026-03-23T02:20:54Z
 - [突破即喜悅：「七殺星」坐守「福德宮」定性修煉](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1496.html) · [原文](https://ziweidoushu.info/article/qisha-fudegong) · 2026-03-23T02:20:46Z
 - [嚴父鋼規：「七殺星」坐守「父母宮」自立課](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1497.html) · [原文](https://ziweidoushu.info/article/qisha-fumugong) · 2026-03-23T02:20:38Z
@@ -81,8 +86,3 @@
 - [术语卡片：紫府朝垣](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-59.html) · [原文](https://ziweidoushu.info/dict/geju/zifu-zhao-yuan) · 2026-03-16T02:20:50Z
 - [祿存與天馬](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-39.html) · [原文](https://ziweidoushu.info/article/lu-cun-yu-tian-ma) · 2026-03-16T02:20:42Z
 - [《紫微斗數解密：雜曜星曜的基礎知識與命盤應用》](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-40.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-za-yao-xing-ji-chu-ying-yong) · 2026-03-16T02:20:36Z
-- [紫微斗數四化精要：禄權科忌的基礎解析與應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-42.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-si-hua-jing-yao-ji-chu-ying-yong) · 2026-03-16T02:20:28Z
-- [紫微斗數飛星技法入門：基礎概念與實戰應用](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-44.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-fei-xing-ji-fa-ru-men-ying-yong) · 2026-03-16T02:20:20Z
-- [紫微斗數常見格局入門：從基礎掌握命盤吉凶](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-46.html) · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-chang-jian-ge-ju-ru-men-ji-xiong) · 2026-03-16T02:20:12Z
-- [术语卡片：紫府同宮]() · [原文](https://ziweidoushu.info/dict/geju/zifu-tong-gong) · 2026-03-15T10:31:33Z
-- [紫微斗數流年分析入門：從命盤基礎到吉凶預測]() · [原文](https://ziweidoushu.info/article/zi-wei-dou-shu-liu-nian-fen-xi-ji-xiong-yu-ce) · 2026-03-15T10:31:03Z

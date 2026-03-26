@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-25T02:20:46Z
+- Last updated: 2026-03-26T02:20:49Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [貴人同行：「天梁星」坐守「遷移宮」外出護蔭](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1480.html) · [原文](https://ziweidoushu.info/article/tianliang-qianyigong) · 2026-03-26T02:20:49Z
+- [道義之交：「天梁星」坐守「交友宮」互助網絡](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1481.html) · [原文](https://ziweidoushu.info/article/tianliang-jiaoyougong) · 2026-03-26T02:20:41Z
+- [護法之業：「天梁星」坐守「事業宮」醫護與公務](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1482.html) · [原文](https://ziweidoushu.info/article/tianliang-shiyegong) · 2026-03-26T02:20:33Z
+- [清雅棲居：「天梁星」坐守「田宅宮」健康宅](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1483.html) · [原文](https://ziweidoushu.info/article/tianliang-tianzhaigong) · 2026-03-26T02:20:25Z
+- [助人為樂：「天梁星」坐守「福德宮」內在功課](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1484.html) · [原文](https://ziweidoushu.info/article/tianliang-fudegong) · 2026-03-26T02:20:17Z
 - [蔭蔽與期待：「天梁星」坐守「父母宮」長輩課題](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1485.html) · [原文](https://ziweidoushu.info/article/tianliang-fumugong) · 2026-03-25T02:20:46Z
 - [將星入命，破局先鋒：「七殺星」坐守「命宮」果決之道](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1486.html) · [原文](https://ziweidoushu.info/article/qisha-minggong) · 2026-03-25T02:20:38Z
 - [較勁同盟：「七殺星」坐守「兄弟宮」柔剛之術](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1487.html) · [原文](https://ziweidoushu.info/article/qisha-xiongdigong) · 2026-03-25T02:20:30Z
@@ -81,8 +86,3 @@
 - [福德宮的幸福密碼：探尋內在喜悅與精神財富的星盤奧祕]() · [原文](https://ziweidoushu.info/article/fu-de-gong-jie-shao) · 2026-03-16T02:31:03Z
 - [父母宮的家族印記：解析原生家庭與成長環境的星象圖譜]() · [原文](https://ziweidoushu.info/article/fu-mu-gong-jie-shao) · 2026-03-16T02:30:32Z
 - [术语卡片：日月反背](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-62.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-fan-bei) · 2026-03-16T02:21:54Z
-- [术语卡片：日月照壁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-61.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-zhao-bi) · 2026-03-16T02:21:46Z
-- [术语卡片：機月同梁](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-60.html) · [原文](https://ziweidoushu.info/dict/geju/ji-yue-tong-liang) · 2026-03-16T02:21:38Z
-- [命盤結構與排盤](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-34.html) · [原文](https://ziweidoushu.info/article/ming-pan-jie-gou-pai-pan) · 2026-03-16T02:21:30Z
-- [陰陽五行與干支](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-35.html) · [原文](https://ziweidoushu.info/article/yin-yang-wu-xing-yu-gan-zhi) · 2026-03-16T02:21:22Z
-- [十四主星](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-36.html) · [原文](https://ziweidoushu.info/article/shi-si-zhu-xing) · 2026-03-16T02:21:14Z

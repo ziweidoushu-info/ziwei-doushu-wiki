@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-26T02:20:49Z
+- Last updated: 2026-03-27T02:20:47Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [保護者角色：「天梁星」坐守「兄弟宮」調停之道](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1475.html) · [原文](https://ziweidoushu.info/article/tianliang-xiongdigong) · 2026-03-27T02:20:47Z
+- [成熟相伴：「天梁星」坐守「夫妻宮」長輩緣與責任](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1476.html) · [原文](https://ziweidoushu.info/article/tianliang-fuqigong) · 2026-03-27T02:20:39Z
+- [同理心養成：「天梁星」坐守「子女宮」健康教育](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1477.html) · [原文](https://ziweidoushu.info/article/tianliang-zinvgong) · 2026-03-27T02:20:31Z
+- [福報財學：「天梁星」坐守「財帛宮」公益與顧問](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1478.html) · [原文](https://ziweidoushu.info/article/tianliang-caibogong) · 2026-03-27T02:20:23Z
+- [免疫守護：「天梁星」坐守「疾厄宮」慢性病管理](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1479.html) · [原文](https://ziweidoushu.info/article/tianliang-jieegong) · 2026-03-27T02:20:16Z
 - [貴人同行：「天梁星」坐守「遷移宮」外出護蔭](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1480.html) · [原文](https://ziweidoushu.info/article/tianliang-qianyigong) · 2026-03-26T02:20:49Z
 - [道義之交：「天梁星」坐守「交友宮」互助網絡](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1481.html) · [原文](https://ziweidoushu.info/article/tianliang-jiaoyougong) · 2026-03-26T02:20:41Z
 - [護法之業：「天梁星」坐守「事業宮」醫護與公務](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1482.html) · [原文](https://ziweidoushu.info/article/tianliang-shiyegong) · 2026-03-26T02:20:33Z
@@ -81,8 +86,3 @@
 - [交友宮的星盤密碼：解析人際關係的天文鑰匙]() · [原文](https://ziweidoushu.info/article/jiao-you-gong-jie-shao) · 2026-03-16T10:30:02Z
 - [术语卡片：紅鸞]() · [原文](https://ziweidoushu.info/dict//dict/zayao/hong-luan) · 2026-03-16T06:30:33Z
 - [事業宮的星辰指引：探索職場成就的命盤藍圖]() · [原文](https://ziweidoushu.info/article/jiao-you-gong-jie-shao) · 2026-03-16T06:30:33Z
-- [田宅宮的風水寶典：解讀家居與財產的星象密語]() · [原文](https://ziweidoushu.info/article/jiao-you-gong-jie-shao) · 2026-03-16T06:30:32Z
-- [术语卡片：貪巨]() · [原文](https://ziweidoushu.info/dict/geju/tan-ju) · 2026-03-16T02:31:34Z
-- [福德宮的幸福密碼：探尋內在喜悅與精神財富的星盤奧祕]() · [原文](https://ziweidoushu.info/article/fu-de-gong-jie-shao) · 2026-03-16T02:31:03Z
-- [父母宮的家族印記：解析原生家庭與成長環境的星象圖譜]() · [原文](https://ziweidoushu.info/article/fu-mu-gong-jie-shao) · 2026-03-16T02:30:32Z
-- [术语卡片：日月反背](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-62.html) · [原文](https://ziweidoushu.info/dict/geju/ri-yue-fan-bei) · 2026-03-16T02:21:54Z

@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-28T02:20:48Z
+- Last updated: 2026-03-29T02:21:53Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [審美教育：「天相星」坐守「子女宮」禮儀養成](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1465.html) · [原文](https://ziweidoushu.info/article/tianxiang-zinvgong) · 2026-03-29T02:21:53Z
+- [品牌即財富：「天相星」坐守「財帛宮」公信力變現](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1466.html) · [原文](https://ziweidoushu.info/article/tianxiang-caibogong) · 2026-03-29T02:21:45Z
+- [平衡為藥：「天相星」坐守「疾厄宮」腎氣與皮膚](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1467.html) · [原文](https://ziweidoushu.info/article/tianxiang-jieegong) · 2026-03-29T02:21:37Z
+- [儀式感在途：「天相星」坐守「遷移宮」體面出行](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1468.html) · [原文](https://ziweidoushu.info/article/tianxiang-qianyigong) · 2026-03-29T02:21:29Z
+- [優雅同盟：「天相星」坐守「交友宮」合作禮數](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1469.html) · [原文](https://ziweidoushu.info/article/tianxiang-jiaoyougong) · 2026-03-29T02:21:21Z
 - [裁斷之衡：「天相星」坐守「事業宮」仲裁與管理](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1470.html) · [原文](https://ziweidoushu.info/article/tianxiang-shiyegong) · 2026-03-28T02:20:48Z
 - [質感居所：「天相星」坐守「田宅宮」秩序與風格](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1471.html) · [原文](https://ziweidoushu.info/article/tianxiang-tianzhaigong) · 2026-03-28T02:20:40Z
 - [平衡的幸福：「天相星」坐守「福德宮」公義與自持](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1472.html) · [原文](https://ziweidoushu.info/article/tianxiang-fudegong) · 2026-03-28T02:20:32Z
@@ -81,8 +86,3 @@
 - [术语卡片：咸池](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-68.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/xian-chi) · 2026-03-17T02:21:08Z
 - [术语卡片：天刑](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-67.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/tian-xing) · 2026-03-17T02:21:00Z
 - [术语卡片：天姚](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-66.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/tian-yao) · 2026-03-17T02:20:52Z
-- [子女宮是什麼？紫微斗數中的子女運解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-19.html) · [原文](https://ziweidoushu.info/article/shi-ye-gong-jie-shao) · 2026-03-17T02:20:44Z
-- [解盤技巧與格局——論命步驟](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-22.html) · [原文](https://ziweidoushu.info/article/lun-ming-bu-zhou) · 2026-03-17T02:20:36Z
-- [解盤技巧與格局——三方四正](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-23.html) · [原文](https://ziweidoushu.info/article/san-fang-si-zheng) · 2026-03-17T02:20:28Z
-- [财帛宫的秘密：解读你的财富命盘](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-24.html) · [原文](https://ziweidoushu.info/article/cai-bo-gong-de-mi-mi) · 2026-03-17T02:20:20Z
-- [命盤的健康密碼：解讀疾厄宮的位置與意義](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-26.html) · [原文](https://ziweidoushu.info/article/ji-e-gong-jian-jie) · 2026-03-17T02:20:12Z

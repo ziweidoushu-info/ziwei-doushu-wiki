@@ -1,11 +1,16 @@
 # Ziwei Auto SEO Feed
 
-- Last updated: 2026-03-30T02:20:48Z
+- Last updated: 2026-03-31T02:20:48Z
 - Source site: https://ziweidoushu.info
 - RSS: https://ziweidoushu-info.github.io/ziwei-doushu-wiki/feed.xml
 
 ## Latest Posts
 
+- [焦慮調頻：「巨門星」坐守「疾厄宮」喉鼻與腸胃](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1455.html) · [原文](https://ziweidoushu.info/article/jumen-jieegong) · 2026-03-31T02:20:48Z
+- [遠行少誤會：「巨門星」坐守「遷移宮」表達策略](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1456.html) · [原文](https://ziweidoushu.info/article/jumen-qianyigong) · 2026-03-31T02:20:40Z
+- [理性同好：「巨門星」坐守「交友宮」辯客朋友圈](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1457.html) · [原文](https://ziweidoushu.info/article/jumen-jiaoyougong) · 2026-03-31T02:20:32Z
+- [闡釋之道：「巨門星」坐守「事業宮」法務與教育](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1458.html) · [原文](https://ziweidoushu.info/article/jumen-shiyegong) · 2026-03-31T02:20:24Z
+- [安靜之居：「巨門星」坐守「田宅宮」隔音與隱私](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1459.html) · [原文](https://ziweidoushu.info/article/jumen-tianzhaigong) · 2026-03-31T02:20:16Z
 - [理解即療癒：「巨門星」坐守「福德宮」陰影整合](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1460.html) · [原文](https://ziweidoushu.info/article/jumen-fudegong) · 2026-03-30T02:20:48Z
 - [嚴以律己：「巨門星」坐守「父母宮」誠實家訓](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1461.html) · [原文](https://ziweidoushu.info/article/jumen-fumugong) · 2026-03-30T02:20:40Z
 - [公義與品味：「天相星」坐守「命宮」端莊之道](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-1462.html) · [原文](https://ziweidoushu.info/article/tianxiang-minggong) · 2026-03-30T02:20:32Z
@@ -81,8 +86,3 @@
 - [紫微斗數如何看姻緣與感情發展]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-yinyuan-ganqing) · 2026-03-17T02:31:04Z
 - [紫微斗數命盤中的大限與小限基礎解析]() · [原文](https://ziweidoushu.info/article/ziwei-doushu-daxian-xiaoxian-jichu) · 2026-03-17T02:30:33Z
 - [术语卡片：廟旺平陷](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-71.html) · [原文](https://ziweidoushu.info/dict/jichugainian/miao-wang-ping-xian) · 2026-03-17T02:22:17Z
-- [术语卡片：寡宿](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-70.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/gua-su) · 2026-03-17T02:22:09Z
-- [术语卡片：孤辰](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/dict-69.html) · [原文](https://ziweidoushu.info/dict//dict/zayao/gu-chen) · 2026-03-17T02:22:02Z
-- [紫微斗數命例解析：經典命盤實務入門](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-865.html) · [原文](https://ziweidoushu.info/article/ziwei-doushu-mingli-jiexi-rumen) · 2026-03-17T02:21:53Z
-- [命宮是什麼？紫微斗數核心宮位全面解析](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-7.html) · [原文](https://ziweidoushu.info/article/ming-gong-jiben-gainian) · 2026-03-17T02:21:46Z
-- [兄弟宮入門：紫微鬥數中的人際關繫解讀](https://ziweidoushu-info.github.io/ziwei-doushu-wiki/posts/article-10.html) · [原文](https://ziweidoushu.info/article/brother-palace-basics) · 2026-03-17T02:21:38Z
